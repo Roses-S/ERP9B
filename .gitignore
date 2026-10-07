@@ -1,0 +1,7 @@
+# Device's exclusive configuration
+config/config.local.php
+
+# Our Files
+logs/
+temps/
+*.log
